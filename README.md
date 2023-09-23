@@ -1,7 +1,7 @@
 
 ## Cloud Native Monitoring App
 
-This is a project for a Cloud-native monitoring app, containerized on Docker, Deployed on K8s using AWS. Now, what exactly does this app do? Well, it records your CPU and RAM usage and displays it for you in an aesthethic fashion. 
+This is a project for a Cloud-native monitoring app. Now, what exactly does this app do? Well, it records your CPU and Memory usage and displays it for you in an aesthethic fashion. The main focus of this app was to learn how to deploy an app in general. In creating this app, I used Docker, AWS, Boto3, and Kubernetes for deployment. 
 
 ## Project Status
 
