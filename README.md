@@ -1,6 +1,3 @@
-# cloud-mon-devops
-
-Setup monitoring project for system analysis
 
 ## Cloud Native Monitoring App
 
