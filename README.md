@@ -8,16 +8,13 @@ This is a project for a Cloud-native monitoring app, containerized on Docker, De
 Currently, this app is not deployed globally anymore to avoid charges on AWS. However the process was documented. 
 
 ## Project Screen Shot(s)
-
-#### Example:   
+ 
 This is the app, fully deployed onto the internet using Kubernetes. 
 
 ![VirtualBox_Xubuntu_08_08_2023_17_40_14](https://github.com/noviccio/zodi-gpt/assets/97764462/02a6ea12-d17b-4542-8fe0-18d277617c73)
 
-## Installation and Setup Instructions
 
-
-#### Example:  
+## Reflection
 
 This was a 2 week long project built over the summer going into my Junior year. Project goals included learning the CI/CD pipeline, and how to use DevOps technologies.
 
